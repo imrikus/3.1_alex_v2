@@ -160,6 +160,6 @@ class __TwigTemplate_90321cae9706c9542569885031e0acbb88a24e38f276700394e44a41e69
 
     {{ include('@WebProfiler/Profiler/toolbar_item.html.twig', { link: profiler_url, name: 'time', status: status_color }) }}
 {% endblock %}
-", "@WebProfiler/Collector/memory.html.twig", "/var/www/html/demo/vendor/symfony/web-profiler-bundle/Resources/views/Collector/memory.html.twig");
+", "@WebProfiler/Collector/memory.html.twig", "/home/inspedralbes/Escritorio/3.1_alex_v2/vendor/symfony/web-profiler-bundle/Resources/views/Collector/memory.html.twig");
     }
 }

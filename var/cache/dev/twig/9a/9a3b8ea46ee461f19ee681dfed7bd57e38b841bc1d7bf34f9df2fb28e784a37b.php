@@ -900,6 +900,6 @@ class __TwigTemplate_ec7c518450ea80d5edfb3ced290cf971b94dfa44bb41a7db520426af06b
         {% endautoescape %}</script>
     </div>
 {% endmacro %}
-", "@WebProfiler/Collector/time.html.twig", "/var/www/html/demo/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
+", "@WebProfiler/Collector/time.html.twig", "/home/inspedralbes/Escritorio/3.1_alex_v2/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.html.twig");
     }
 }

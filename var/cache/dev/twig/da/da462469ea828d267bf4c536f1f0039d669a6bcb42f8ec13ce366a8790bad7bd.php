@@ -413,6 +413,6 @@ class __TwigTemplate_dbb8544b9e57edfd446e5ab86d16ab9657b3d7aebe5d097178c4f6c497d
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/var/www/html/demo/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/home/inspedralbes/Escritorio/3.1_alex_v2/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

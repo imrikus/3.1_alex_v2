@@ -1706,6 +1706,6 @@ class __TwigTemplate_1c39044a9abda89d322dfb63b7525e8d922d5bf0986513ea630db17c95b
     });
 
 /*]]>*/</script>
-", "@WebProfiler/Profiler/base_js.html.twig", "/var/www/html/demo/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base_js.html.twig");
+", "@WebProfiler/Profiler/base_js.html.twig", "/home/inspedralbes/Escritorio/3.1_alex_v2/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base_js.html.twig");
     }
 }

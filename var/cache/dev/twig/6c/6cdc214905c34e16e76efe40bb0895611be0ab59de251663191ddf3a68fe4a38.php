@@ -1843,6 +1843,6 @@ class __TwigTemplate_bed01c2e82e91117b910035c84cbdb4cf6a6451c5b98e99170302f9c904
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/var/www/html/demo/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/inspedralbes/Escritorio/3.1_alex_v2/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

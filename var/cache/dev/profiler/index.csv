@@ -311,3 +311,4 @@ c3a017,::1,GET,http://localhost:8000/login,1583243938,,200
 0c5095,::1,POST,http://localhost:8000/login,1583243942,,302
 e45b75,::1,GET,http://localhost:8000/role,1583243942,,200
 09070a,::1,GET,http://localhost:8000/register,1583243955,,200
+341384,127.0.0.1,GET,http://127.0.0.1:8001/,1591563950,,404
